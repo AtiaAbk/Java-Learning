@@ -1,7 +1,7 @@
-public class Atia {
+public class atia {
 
     // Constructor
-    public Atia() {
+    public atia() {
     }
 
     // Main method
