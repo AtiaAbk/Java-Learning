@@ -1,11 +1,11 @@
-public class atia {
 
-    // Constructor
-    public atia() {
-    }
+public class atia{
 
-    // Main method
-    public static void main() {
-        System.out.println("Program is running!");
-    }
+public static void main(){
+
+    System.out.println("atia");
+}
+
+
+
 }
